@@ -1,0 +1,15 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  --include "../../../../lab8_1_2.srcs/sources_1/ip/clk_wiz_0" \
+"../../../../lab8_1_2.srcs/sources_1/imports/new/SegmentDisplay.v" \
+"../../../../lab8_1_2.srcs/sources_1/imports/new/comparator_dataflow.v" \
+"../../../../lab8_1_2.srcs/sources_1/imports/new/lab2_2_1.v" \
+"../../../../lab8_1_2.srcs/sources_1/imports/new/lab2_2_1TOP.v" \
+"../../../../lab8_1_2.srcs/sources_1/imports/new/lab2_circuitA_dataflow.v" \
+"../../../../lab8_1_2.srcs/sources_1/imports/new/mux_2to1.v" \
+"../../../../lab8_1_2.srcs/sim_1/new/lab2_2_1TOP_tb.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

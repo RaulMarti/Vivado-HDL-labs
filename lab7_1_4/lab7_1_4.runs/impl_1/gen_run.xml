@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GenRun Id="impl_1" LaunchPart="xc7a35tcpg236-1" LaunchTime="1594131121">
+  <File Type="BITSTR-BMM" Name="graycode_case_bd.bmm"/>
+  <File Type="OPT-METHODOLOGY-DRC" Name="graycode_case_methodology_drc_opted.rpt"/>
+  <File Type="INIT-TIMING" Name="graycode_case_timing_summary_init.rpt"/>
+  <File Type="ROUTE-PWR" Name="graycode_case_power_routed.rpt"/>
+  <File Type="PA-TCL" Name="graycode_case.tcl"/>
+  <File Type="OPT-TIMING" Name="graycode_case_timing_summary_opted.rpt"/>
+  <File Type="OPT-DCP" Name="graycode_case_opt.dcp"/>
+  <File Type="ROUTE-PWR-SUM" Name="graycode_case_power_summary_routed.pb"/>
+  <File Type="REPORTS-TCL" Name="graycode_case_reports.tcl"/>
+  <File Type="OPT-DRC" Name="graycode_case_drc_opted.rpt"/>
+  <File Type="OPT-HWDEF" Name="graycode_case.hwdef"/>
+  <File Type="PWROPT-DCP" Name="graycode_case_pwropt.dcp"/>
+  <File Type="PWROPT-DRC" Name="graycode_case_drc_pwropted.rpt"/>
+  <File Type="PWROPT-TIMING" Name="graycode_case_timing_summary_pwropted.rpt"/>
+  <File Type="PLACE-DCP" Name="graycode_case_placed.dcp"/>
+  <File Type="PLACE-IO" Name="graycode_case_io_placed.rpt"/>
+  <File Type="PLACE-CLK" Name="graycode_case_clock_utilization_placed.rpt"/>
+  <File Type="PLACE-UTIL" Name="graycode_case_utilization_placed.rpt"/>
+  <File Type="PLACE-UTIL-PB" Name="graycode_case_utilization_placed.pb"/>
+  <File Type="PLACE-CTRL" Name="graycode_case_control_sets_placed.rpt"/>
+  <File Type="PLACE-SIMILARITY" Name="graycode_case_incremental_reuse_placed.rpt"/>
+  <File Type="PLACE-PRE-SIMILARITY" Name="graycode_case_incremental_reuse_pre_placed.rpt"/>
+  <File Type="PLACE-TIMING" Name="graycode_case_timing_summary_placed.rpt"/>
+  <File Type="POSTPLACE-PWROPT-DCP" Name="graycode_case_postplace_pwropt.dcp"/>
+  <File Type="BG-BIN" Name="graycode_case.bin"/>
+  <File Type="POSTPLACE-PWROPT-TIMING" Name="graycode_case_timing_summary_postplace_pwropted.rpt"/>
+  <File Type="PHYSOPT-DCP" Name="graycode_case_physopt.dcp"/>
+  <File Type="PHYSOPT-DRC" Name="graycode_case_drc_physopted.rpt"/>
+  <File Type="BITSTR-MSK" Name="graycode_case.msk"/>
+  <File Type="PHYSOPT-TIMING" Name="graycode_case_timing_summary_physopted.rpt"/>
+  <File Type="ROUTE-ERROR-DCP" Name="graycode_case_routed_error.dcp"/>
+  <File Type="ROUTE-DCP" Name="graycode_case_routed.dcp"/>
+  <File Type="ROUTE-BLACKBOX-DCP" Name="graycode_case_routed_bb.dcp"/>
+  <File Type="ROUTE-DRC" Name="graycode_case_drc_routed.rpt"/>
+  <File Type="ROUTE-DRC-PB" Name="graycode_case_drc_routed.pb"/>
+  <File Type="ROUTE-DRC-RPX" Name="graycode_case_drc_routed.rpx"/>
+  <File Type="BITSTR-MMI" Name="graycode_case.mmi"/>
+  <File Type="ROUTE-METHODOLOGY-DRC" Name="graycode_case_methodology_drc_routed.rpt"/>
+  <File Type="ROUTE-METHODOLOGY-DRC-RPX" Name="graycode_case_methodology_drc_routed.rpx"/>
+  <File Type="ROUTE-METHODOLOGY-DRC-PB" Name="graycode_case_methodology_drc_routed.pb"/>
+  <File Type="ROUTE-PWR-RPX" Name="graycode_case_power_routed.rpx"/>
+  <File Type="ROUTE-STATUS" Name="graycode_case_route_status.rpt"/>
+  <File Type="ROUTE-STATUS-PB" Name="graycode_case_route_status.pb"/>
+  <File Type="ROUTE-TIMINGSUMMARY" Name="graycode_case_timing_summary_routed.rpt"/>
+  <File Type="ROUTE-TIMING-PB" Name="graycode_case_timing_summary_routed.pb"/>
+  <File Type="ROUTE-TIMING-RPX" Name="graycode_case_timing_summary_routed.rpx"/>
+  <File Type="ROUTE-SIMILARITY" Name="graycode_case_incremental_reuse_routed.rpt"/>
+  <File Type="ROUTE-CLK" Name="graycode_case_clock_utilization_routed.rpt"/>
+  <File Type="ROUTE-BUS-SKEW" Name="graycode_case_bus_skew_routed.rpt"/>
+  <File Type="ROUTE-BUS-SKEW-PB" Name="graycode_case_bus_skew_routed.pb"/>
+  <File Type="ROUTE-BUS-SKEW-RPX" Name="graycode_case_bus_skew_routed.rpx"/>
+  <File Type="POSTROUTE-PHYSOPT-DCP" Name="graycode_case_postroute_physopt.dcp"/>
+  <File Type="POSTROUTE-PHYSOPT-BLACKBOX-DCP" Name="graycode_case_postroute_physopt_bb.dcp"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING" Name="graycode_case_timing_summary_postroute_physopted.rpt"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING-PB" Name="graycode_case_timing_summary_postroute_physopted.pb"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING-RPX" Name="graycode_case_timing_summary_postroute_physopted.rpx"/>
+  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW" Name="graycode_case_bus_skew_postroute_physopted.rpt"/>
+  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW-PB" Name="graycode_case_bus_skew_postroute_physopted.pb"/>
+  <File Type="BG-BIT" Name="graycode_case.bit"/>
+  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW-RPX" Name="graycode_case_bus_skew_postroute_physopted.rpx"/>
+  <File Type="BITSTR-RBT" Name="graycode_case.rbt"/>
+  <File Type="BITSTR-NKY" Name="graycode_case.nky"/>
+  <File Type="PDI-FILE" Name="graycode_case.pdi"/>
+  <File Type="RCFI_FILE" Name="graycode_case.rcfi"/>
+  <File Type="CFI_FILE" Name="graycode_case.cfi"/>
+  <File Type="RNPI_FILE" Name="graycode_case.rnpi"/>
+  <File Type="NPI_FILE" Name="graycode_case.npi"/>
+  <File Type="RBD_FILE" Name="graycode_case.rbd"/>
+  <File Type="BITSTR-LTX" Name="debug_nets.ltx"/>
+  <File Type="BITSTR-LTX" Name="graycode_case.ltx"/>
+  <File Type="BITSTR-SYSDEF" Name="graycode_case.sysdef"/>
+  <File Type="BG-BGN" Name="graycode_case.bgn"/>
+  <File Type="BG-DRC" Name="graycode_case.drc"/>
+  <File Type="RDI-RDI" Name="graycode_case.vdi"/>
+  <File Type="WBT-USG" Name="usage_statistics_webtalk.html"/>
+  <FileSet Name="sources" Type="DesignSrcs" RelSrcDir="$PSRCDIR/sources_1">
+    <Filter Type="Srcs"/>
+    <File Path="$PSRCDIR/sources_1/new/graycode_case.v">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <Config>
+      <Option Name="DesignMode" Val="RTL"/>
+      <Option Name="TopModule" Val="graycode_case"/>
+      <Option Name="TopAutoSet" Val="TRUE"/>
+    </Config>
+  </FileSet>
+  <FileSet Name="constrs_in" Type="Constrs" RelSrcDir="$PSRCDIR/constrs_1">
+    <Filter Type="Constrs"/>
+    <File Path="$PSRCDIR/constrs_1/new/Basys.xdc">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+      </FileInfo>
+    </File>
+    <Config>
+      <Option Name="ConstrsType" Val="XDC"/>
+    </Config>
+  </FileSet>
+  <FileSet Name="utils" Type="Utils" RelSrcDir="$PSRCDIR/utils_1">
+    <Filter Type="Utils"/>
+    <Config>
+      <Option Name="TopAutoSet" Val="TRUE"/>
+    </Config>
+  </FileSet>
+  <Strategy Version="1" Minor="2">
+    <StratHandle Name="Vivado Implementation Defaults" Flow="Vivado Implementation 2019">
+      <Desc>Default settings for Implementation.</Desc>
+    </StratHandle>
+    <Step Id="init_design"/>
+    <Step Id="opt_design"/>
+    <Step Id="power_opt_design"/>
+    <Step Id="place_design"/>
+    <Step Id="post_place_power_opt_design"/>
+    <Step Id="phys_opt_design" EnableStepBool="1"/>
+    <Step Id="route_design"/>
+    <Step Id="post_route_phys_opt_design"/>
+    <Step Id="write_bitstream"/>
+  </Strategy>
+</GenRun>

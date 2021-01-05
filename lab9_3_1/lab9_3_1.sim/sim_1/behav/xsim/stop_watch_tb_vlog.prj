@@ -1,0 +1,12 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  --include "../../../../lab9_3_1.srcs/sources_1/ip/clk_wiz_0" \
+"../../../../lab9_3_1.srcs/sources_1/imports/VivadoRepository/clock_div/clock_div.srcs/sources_1/new/clk_div.v" \
+"../../../../lab9_3_1.srcs/sources_1/new/stop_watch.v" \
+"../../../../lab9_3_1.srcs/sources_1/imports/VivadoRepository/stop_watch_counter/stop_watch_counter.srcs/sources_1/new/stop_watch_counter.v" \
+"../../../../lab9_3_1.srcs/sim_1/new/stop_watch_tb.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

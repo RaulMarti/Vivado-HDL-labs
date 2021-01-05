@@ -1,0 +1,8 @@
+0.6
+2019.2
+Nov  6 2019
+21:57:16
+C:/Users/xy424/Documents/VivadoRepository/lab4_3_1/lab4_3_1.sim/sim_1/behav/xsim/glbl.v,1573089660,verilog,,,,glbl,,,,,,,,
+C:/Users/xy424/Documents/VivadoRepository/lab4_3_1/lab4_3_1.srcs/sim_1/new/rca_dataflow_tb.v,1593471384,verilog,,,,rca_dataflow_tb,,,,,,,,
+C:/Users/xy424/Documents/VivadoRepository/lab4_3_1/lab4_3_1.srcs/sources_1/new/fulladder_dataflow.v,1593470187,verilog,,C:/Users/xy424/Documents/VivadoRepository/lab4_3_1/lab4_3_1.srcs/sources_1/new/rca_dataflow.v,,fulladder_dataflow,,,,,,,,
+C:/Users/xy424/Documents/VivadoRepository/lab4_3_1/lab4_3_1.srcs/sources_1/new/rca_dataflow.v,1593470189,verilog,,C:/Users/xy424/Documents/VivadoRepository/lab4_3_1/lab4_3_1.srcs/sim_1/new/rca_dataflow_tb.v,,rca_dataflow,,,,,,,,

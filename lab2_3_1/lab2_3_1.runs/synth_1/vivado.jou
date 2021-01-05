@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2019.2 (64-bit)
+# SW Build 2708876 on Wed Nov  6 21:40:23 MST 2019
+# IP Build 2700528 on Thu Nov  7 00:09:20 MST 2019
+# Start of session at: Mon Jun 22 21:46:05 2020
+# Process ID: 10460
+# Current directory: C:/Users/xy424/Documents/VivadoRepository/lab2_3_1/lab2_3_1.runs/synth_1
+# Command line: vivado.exe -log rca_dataflow.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source rca_dataflow.tcl
+# Log file: C:/Users/xy424/Documents/VivadoRepository/lab2_3_1/lab2_3_1.runs/synth_1/rca_dataflow.vds
+# Journal file: C:/Users/xy424/Documents/VivadoRepository/lab2_3_1/lab2_3_1.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source rca_dataflow.tcl -notrace

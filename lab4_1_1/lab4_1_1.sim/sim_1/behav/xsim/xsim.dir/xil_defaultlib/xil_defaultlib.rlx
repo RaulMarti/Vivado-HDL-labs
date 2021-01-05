@@ -1,0 +1,9 @@
+0.6
+2019.2
+Nov  6 2019
+21:57:16
+C:/Users/xy424/Documents/VivadoRepository/lab4_1_1/lab4_1_1.sim/sim_1/behav/xsim/glbl.v,1573089660,verilog,,,,glbl,,,,,,,,
+C:/Users/xy424/Documents/VivadoRepository/lab4_1_1/lab4_1_1.srcs/sources_1/new/add_two_values_task.v,1593390165,verilog,,D:/xy424/Documents/VivadoTutorials/lab4/lab4/lab4_1_1/add_two_values_task_tb.v,,add_two_values_task,,,,,,,,
+C:/Users/xy424/Documents/VivadoRepository/lab4_1_1/lab4_1_1.srcs/sources_1/new/calc_even_parity_task.v,1593461326,verilog,,D:/xy424/Documents/VivadoTutorials/lab4/lab4/lab4_1_2/calc_even_parity_task_tb.v,,calc_even_parity_task,,,,,,,,
+D:/xy424/Documents/VivadoTutorials/lab4/lab4/lab4_1_1/add_two_values_task_tb.v,1593388123,verilog,,,,add_two_values_task_tb,,,,,,,,
+D:/xy424/Documents/VivadoTutorials/lab4/lab4/lab4_1_2/calc_even_parity_task_tb.v,1593388123,verilog,,,,calc_even_parity_task_tb,,,,,,,,

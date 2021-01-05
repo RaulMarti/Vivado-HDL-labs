@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2019.2 (64-bit)
+# SW Build 2708876 on Wed Nov  6 21:40:23 MST 2019
+# IP Build 2700528 on Thu Nov  7 00:09:20 MST 2019
+# Start of session at: Wed Oct  7 21:58:23 2020
+# Process ID: 8212
+# Current directory: C:/Users/xy424/Documents/VivadoRepository/lab10_2_1/lab10_2_1.runs/impl_1
+# Command line: vivado.exe -log seqdetector2bit.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source seqdetector2bit.tcl -notrace
+# Log file: C:/Users/xy424/Documents/VivadoRepository/lab10_2_1/lab10_2_1.runs/impl_1/seqdetector2bit.vdi
+# Journal file: C:/Users/xy424/Documents/VivadoRepository/lab10_2_1/lab10_2_1.runs/impl_1\vivado.jou
+#-----------------------------------------------------------
+source seqdetector2bit.tcl -notrace

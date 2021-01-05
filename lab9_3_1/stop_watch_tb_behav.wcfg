@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="stop_watch_tb_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="glbl" />
+            <top_module name="stop_watch_tb" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="0fs"></ZoomStartTime>
+      <ZoomEndTime time="43601fs"></ZoomEndTime>
+      <Cursor1Time time="2450fs"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="87"></NameColumnWidth>
+      <ValueColumnWidth column_width="58"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="18" />
+   <wvobject fp_name="/stop_watch_tb/clk" type="logic">
+      <obj_property name="ElementShortName">clk</obj_property>
+      <obj_property name="ObjectShortName">clk</obj_property>
+   </wvobject>
+   <wvobject fp_name="/stop_watch_tb/enable" type="logic">
+      <obj_property name="ElementShortName">enable</obj_property>
+      <obj_property name="ObjectShortName">enable</obj_property>
+   </wvobject>
+   <wvobject fp_name="/stop_watch_tb/reset" type="logic">
+      <obj_property name="ElementShortName">reset</obj_property>
+      <obj_property name="ObjectShortName">reset</obj_property>
+   </wvobject>
+   <wvobject fp_name="/stop_watch_tb/y" type="array">
+      <obj_property name="ElementShortName">y[7:0]</obj_property>
+      <obj_property name="ObjectShortName">y[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/stop_watch_tb/an" type="array">
+      <obj_property name="ElementShortName">an[3:0]</obj_property>
+      <obj_property name="ObjectShortName">an[3:0]</obj_property>
+      <obj_property name="Radix">BINARYRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/stop_watch_tb/half_cycle" type="array">
+      <obj_property name="ElementShortName">half_cycle[31:0]</obj_property>
+      <obj_property name="ObjectShortName">half_cycle[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/stop_watch_tb/stp0/Q0" type="array">
+      <obj_property name="ElementShortName">Q0[3:0]</obj_property>
+      <obj_property name="ObjectShortName">Q0[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/stop_watch_tb/stp0/Q1" type="array">
+      <obj_property name="ElementShortName">Q1[3:0]</obj_property>
+      <obj_property name="ObjectShortName">Q1[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/stop_watch_tb/stp0/Q2" type="array">
+      <obj_property name="ElementShortName">Q2[3:0]</obj_property>
+      <obj_property name="ObjectShortName">Q2[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/stop_watch_tb/stp0/Q3" type="array">
+      <obj_property name="ElementShortName">Q3[3:0]</obj_property>
+      <obj_property name="ObjectShortName">Q3[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/stop_watch_tb/stp0/y0" type="array">
+      <obj_property name="ElementShortName">y0[7:0]</obj_property>
+      <obj_property name="ObjectShortName">y0[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/stop_watch_tb/stp0/y1" type="array">
+      <obj_property name="ElementShortName">y1[7:0]</obj_property>
+      <obj_property name="ObjectShortName">y1[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/stop_watch_tb/stp0/y2" type="array">
+      <obj_property name="ElementShortName">y2[7:0]</obj_property>
+      <obj_property name="ObjectShortName">y2[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/stop_watch_tb/stp0/y3" type="array">
+      <obj_property name="ElementShortName">y3[7:0]</obj_property>
+      <obj_property name="ObjectShortName">y3[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/stop_watch_tb/stp0/stp0/min" type="array">
+      <obj_property name="ElementShortName">min[2:0]</obj_property>
+      <obj_property name="ObjectShortName">min[2:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/stop_watch_tb/stp0/stp0/sec1" type="array">
+      <obj_property name="ElementShortName">sec1[2:0]</obj_property>
+      <obj_property name="ObjectShortName">sec1[2:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/stop_watch_tb/stp0/stp0/sec0" type="array">
+      <obj_property name="ElementShortName">sec0[3:0]</obj_property>
+      <obj_property name="ObjectShortName">sec0[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/stop_watch_tb/stp0/stp0/fem" type="array">
+      <obj_property name="ElementShortName">fem[3:0]</obj_property>
+      <obj_property name="ObjectShortName">fem[3:0]</obj_property>
+   </wvobject>
+</wave_config>

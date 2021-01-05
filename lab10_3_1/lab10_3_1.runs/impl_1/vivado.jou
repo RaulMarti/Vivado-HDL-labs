@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2019.2 (64-bit)
+# SW Build 2708876 on Wed Nov  6 21:40:23 MST 2019
+# IP Build 2700528 on Thu Nov  7 00:09:20 MST 2019
+# Start of session at: Fri Nov 13 21:27:07 2020
+# Process ID: 1316
+# Current directory: C:/Users/xy424/Documents/VivadoRepository/lab10_3_1/lab10_3_1.runs/impl_1
+# Command line: vivado.exe -log mealycounter.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source mealycounter.tcl -notrace
+# Log file: C:/Users/xy424/Documents/VivadoRepository/lab10_3_1/lab10_3_1.runs/impl_1/mealycounter.vdi
+# Journal file: C:/Users/xy424/Documents/VivadoRepository/lab10_3_1/lab10_3_1.runs/impl_1\vivado.jou
+#-----------------------------------------------------------
+source mealycounter.tcl -notrace

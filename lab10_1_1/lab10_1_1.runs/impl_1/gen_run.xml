@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GenRun Id="impl_1" LaunchPart="xc7a35tcpg236-1" LaunchTime="1601685258">
+  <File Type="BITSTR-BMM" Name="Div3Mealy_bd.bmm"/>
+  <File Type="OPT-METHODOLOGY-DRC" Name="Div3Mealy_methodology_drc_opted.rpt"/>
+  <File Type="INIT-TIMING" Name="Div3Mealy_timing_summary_init.rpt"/>
+  <File Type="ROUTE-PWR" Name="Div3Mealy_power_routed.rpt"/>
+  <File Type="PA-TCL" Name="Div3Mealy.tcl"/>
+  <File Type="OPT-TIMING" Name="Div3Mealy_timing_summary_opted.rpt"/>
+  <File Type="OPT-DCP" Name="Div3Mealy_opt.dcp"/>
+  <File Type="ROUTE-PWR-SUM" Name="Div3Mealy_power_summary_routed.pb"/>
+  <File Type="REPORTS-TCL" Name="Div3Mealy_reports.tcl"/>
+  <File Type="OPT-DRC" Name="Div3Mealy_drc_opted.rpt"/>
+  <File Type="OPT-HWDEF" Name="Div3Mealy.hwdef"/>
+  <File Type="PWROPT-DCP" Name="Div3Mealy_pwropt.dcp"/>
+  <File Type="PWROPT-DRC" Name="Div3Mealy_drc_pwropted.rpt"/>
+  <File Type="PWROPT-TIMING" Name="Div3Mealy_timing_summary_pwropted.rpt"/>
+  <File Type="PLACE-DCP" Name="Div3Mealy_placed.dcp"/>
+  <File Type="PLACE-IO" Name="Div3Mealy_io_placed.rpt"/>
+  <File Type="PLACE-CLK" Name="Div3Mealy_clock_utilization_placed.rpt"/>
+  <File Type="PLACE-UTIL" Name="Div3Mealy_utilization_placed.rpt"/>
+  <File Type="PLACE-UTIL-PB" Name="Div3Mealy_utilization_placed.pb"/>
+  <File Type="PLACE-CTRL" Name="Div3Mealy_control_sets_placed.rpt"/>
+  <File Type="PLACE-SIMILARITY" Name="Div3Mealy_incremental_reuse_placed.rpt"/>
+  <File Type="PLACE-PRE-SIMILARITY" Name="Div3Mealy_incremental_reuse_pre_placed.rpt"/>
+  <File Type="PLACE-TIMING" Name="Div3Mealy_timing_summary_placed.rpt"/>
+  <File Type="POSTPLACE-PWROPT-DCP" Name="Div3Mealy_postplace_pwropt.dcp"/>
+  <File Type="BG-BIN" Name="Div3Mealy.bin"/>
+  <File Type="POSTPLACE-PWROPT-TIMING" Name="Div3Mealy_timing_summary_postplace_pwropted.rpt"/>
+  <File Type="PHYSOPT-DCP" Name="Div3Mealy_physopt.dcp"/>
+  <File Type="PHYSOPT-DRC" Name="Div3Mealy_drc_physopted.rpt"/>
+  <File Type="BITSTR-MSK" Name="Div3Mealy.msk"/>
+  <File Type="PHYSOPT-TIMING" Name="Div3Mealy_timing_summary_physopted.rpt"/>
+  <File Type="ROUTE-ERROR-DCP" Name="Div3Mealy_routed_error.dcp"/>
+  <File Type="ROUTE-DCP" Name="Div3Mealy_routed.dcp"/>
+  <File Type="ROUTE-BLACKBOX-DCP" Name="Div3Mealy_routed_bb.dcp"/>
+  <File Type="ROUTE-DRC" Name="Div3Mealy_drc_routed.rpt"/>
+  <File Type="ROUTE-DRC-PB" Name="Div3Mealy_drc_routed.pb"/>
+  <File Type="ROUTE-DRC-RPX" Name="Div3Mealy_drc_routed.rpx"/>
+  <File Type="BITSTR-MMI" Name="Div3Mealy.mmi"/>
+  <File Type="ROUTE-METHODOLOGY-DRC" Name="Div3Mealy_methodology_drc_routed.rpt"/>
+  <File Type="ROUTE-METHODOLOGY-DRC-RPX" Name="Div3Mealy_methodology_drc_routed.rpx"/>
+  <File Type="ROUTE-METHODOLOGY-DRC-PB" Name="Div3Mealy_methodology_drc_routed.pb"/>
+  <File Type="ROUTE-PWR-RPX" Name="Div3Mealy_power_routed.rpx"/>
+  <File Type="ROUTE-STATUS" Name="Div3Mealy_route_status.rpt"/>
+  <File Type="ROUTE-STATUS-PB" Name="Div3Mealy_route_status.pb"/>
+  <File Type="ROUTE-TIMINGSUMMARY" Name="Div3Mealy_timing_summary_routed.rpt"/>
+  <File Type="ROUTE-TIMING-PB" Name="Div3Mealy_timing_summary_routed.pb"/>
+  <File Type="ROUTE-TIMING-RPX" Name="Div3Mealy_timing_summary_routed.rpx"/>
+  <File Type="ROUTE-SIMILARITY" Name="Div3Mealy_incremental_reuse_routed.rpt"/>
+  <File Type="ROUTE-CLK" Name="Div3Mealy_clock_utilization_routed.rpt"/>
+  <File Type="ROUTE-BUS-SKEW" Name="Div3Mealy_bus_skew_routed.rpt"/>
+  <File Type="ROUTE-BUS-SKEW-PB" Name="Div3Mealy_bus_skew_routed.pb"/>
+  <File Type="ROUTE-BUS-SKEW-RPX" Name="Div3Mealy_bus_skew_routed.rpx"/>
+  <File Type="POSTROUTE-PHYSOPT-DCP" Name="Div3Mealy_postroute_physopt.dcp"/>
+  <File Type="POSTROUTE-PHYSOPT-BLACKBOX-DCP" Name="Div3Mealy_postroute_physopt_bb.dcp"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING" Name="Div3Mealy_timing_summary_postroute_physopted.rpt"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING-PB" Name="Div3Mealy_timing_summary_postroute_physopted.pb"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING-RPX" Name="Div3Mealy_timing_summary_postroute_physopted.rpx"/>
+  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW" Name="Div3Mealy_bus_skew_postroute_physopted.rpt"/>
+  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW-PB" Name="Div3Mealy_bus_skew_postroute_physopted.pb"/>
+  <File Type="BG-BIT" Name="Div3Mealy.bit"/>
+  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW-RPX" Name="Div3Mealy_bus_skew_postroute_physopted.rpx"/>
+  <File Type="BITSTR-RBT" Name="Div3Mealy.rbt"/>
+  <File Type="BITSTR-NKY" Name="Div3Mealy.nky"/>
+  <File Type="PDI-FILE" Name="Div3Mealy.pdi"/>
+  <File Type="RCFI_FILE" Name="Div3Mealy.rcfi"/>
+  <File Type="CFI_FILE" Name="Div3Mealy.cfi"/>
+  <File Type="RNPI_FILE" Name="Div3Mealy.rnpi"/>
+  <File Type="NPI_FILE" Name="Div3Mealy.npi"/>
+  <File Type="RBD_FILE" Name="Div3Mealy.rbd"/>
+  <File Type="BITSTR-LTX" Name="debug_nets.ltx"/>
+  <File Type="BITSTR-LTX" Name="Div3Mealy.ltx"/>
+  <File Type="BITSTR-SYSDEF" Name="Div3Mealy.sysdef"/>
+  <File Type="BG-BGN" Name="Div3Mealy.bgn"/>
+  <File Type="BG-DRC" Name="Div3Mealy.drc"/>
+  <File Type="RDI-RDI" Name="Div3Mealy.vdi"/>
+  <File Type="WBT-USG" Name="usage_statistics_webtalk.html"/>
+  <FileSet Name="sources" Type="DesignSrcs" RelSrcDir="$PSRCDIR/sources_1">
+    <Filter Type="Srcs"/>
+    <File Path="$PSRCDIR/sources_1/new/Div3Mealy.v">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <Config>
+      <Option Name="DesignMode" Val="RTL"/>
+      <Option Name="TopModule" Val="Div3Mealy"/>
+      <Option Name="TopAutoSet" Val="TRUE"/>
+    </Config>
+  </FileSet>
+  <FileSet Name="constrs_in" Type="Constrs" RelSrcDir="$PSRCDIR/constrs_1">
+    <Filter Type="Constrs"/>
+    <File Path="$PSRCDIR/constrs_1/new/basys.xdc">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+      </FileInfo>
+    </File>
+    <Config>
+      <Option Name="ConstrsType" Val="XDC"/>
+    </Config>
+  </FileSet>
+  <FileSet Name="utils" Type="Utils" RelSrcDir="$PSRCDIR/utils_1">
+    <Filter Type="Utils"/>
+    <Config>
+      <Option Name="TopAutoSet" Val="TRUE"/>
+    </Config>
+  </FileSet>
+  <Strategy Version="1" Minor="2">
+    <StratHandle Name="Vivado Implementation Defaults" Flow="Vivado Implementation 2019"/>
+    <Step Id="init_design"/>
+    <Step Id="opt_design"/>
+    <Step Id="power_opt_design"/>
+    <Step Id="place_design"/>
+    <Step Id="post_place_power_opt_design"/>
+    <Step Id="phys_opt_design" EnableStepBool="1"/>
+    <Step Id="route_design"/>
+    <Step Id="post_route_phys_opt_design"/>
+    <Step Id="write_bitstream"/>
+  </Strategy>
+</GenRun>

@@ -1,0 +1,9 @@
+0.6
+2019.2
+Nov  6 2019
+21:57:16
+C:/Users/xy424/Documents/VivadoRepository/lab6_2_2/lab6_2_2.sim/sim_1/behav/xsim/glbl.v,1573089660,verilog,,,,glbl,,,,,,,,
+C:/Users/xy424/Documents/VivadoRepository/lab6_2_2/lab6_2_2.srcs/sim_1/new/eightbit_Dff_counter_tb.v,1594090074,verilog,,,,eightbit_Dff_counter_tb,,,,,,,,
+C:/Users/xy424/Documents/VivadoRepository/lab6_2_2/lab6_2_2.srcs/sources_1/new/Dff.v,1594090590,verilog,,C:/Users/xy424/Documents/VivadoRepository/lab6_2_2/lab6_2_2.srcs/sources_1/new/TfromD.v,,Dff,,,,,,,,
+C:/Users/xy424/Documents/VivadoRepository/lab6_2_2/lab6_2_2.srcs/sources_1/new/TfromD.v,1594089977,verilog,,C:/Users/xy424/Documents/VivadoRepository/lab6_2_2/lab6_2_2.srcs/sources_1/new/eightbit_Dff_counter.v,,TfromD,,,,,,,,
+C:/Users/xy424/Documents/VivadoRepository/lab6_2_2/lab6_2_2.srcs/sources_1/new/eightbit_Dff_counter.v,1594089857,verilog,,C:/Users/xy424/Documents/VivadoRepository/lab6_2_2/lab6_2_2.srcs/sim_1/new/eightbit_Dff_counter_tb.v,,eightbit_Dff_counter,,,,,,,,

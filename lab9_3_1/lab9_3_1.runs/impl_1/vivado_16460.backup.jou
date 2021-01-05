@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2019.2 (64-bit)
+# SW Build 2708876 on Wed Nov  6 21:40:23 MST 2019
+# IP Build 2700528 on Thu Nov  7 00:09:20 MST 2019
+# Start of session at: Tue Aug 25 13:48:59 2020
+# Process ID: 16460
+# Current directory: C:/Users/xy424/Documents/VivadoRepository/lab9_3_1/lab9_3_1.runs/impl_1
+# Command line: vivado.exe -log stop_watch.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source stop_watch.tcl -notrace
+# Log file: C:/Users/xy424/Documents/VivadoRepository/lab9_3_1/lab9_3_1.runs/impl_1/stop_watch.vdi
+# Journal file: C:/Users/xy424/Documents/VivadoRepository/lab9_3_1/lab9_3_1.runs/impl_1\vivado.jou
+#-----------------------------------------------------------
+source stop_watch.tcl -notrace

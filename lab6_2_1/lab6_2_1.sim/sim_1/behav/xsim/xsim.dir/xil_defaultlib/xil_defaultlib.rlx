@@ -1,0 +1,8 @@
+0.6
+2019.2
+Nov  6 2019
+21:57:16
+C:/Users/xy424/Documents/VivadoRepository/lab6_2_1/lab6_2_1.sim/sim_1/behav/xsim/glbl.v,1573089660,verilog,,,,glbl,,,,,,,,
+C:/Users/xy424/Documents/VivadoRepository/lab6_2_1/lab6_2_1.srcs/sim_1/new/eightbit_Tff_tb.v,1594085473,verilog,,,,eightbit_Tff_tb,,,,,,,,
+C:/Users/xy424/Documents/VivadoRepository/lab6_2_1/lab6_2_1.srcs/sources_1/new/T_ff_enable_behavior.v,1594083523,verilog,,C:/Users/xy424/Documents/VivadoRepository/lab6_2_1/lab6_2_1.srcs/sources_1/new/eightbit_Tff.v,,T_ff_enable_behavior,,,,,,,,
+C:/Users/xy424/Documents/VivadoRepository/lab6_2_1/lab6_2_1.srcs/sources_1/new/eightbit_Tff.v,1594085382,verilog,,C:/Users/xy424/Documents/VivadoRepository/lab6_2_1/lab6_2_1.srcs/sim_1/new/eightbit_Tff_tb.v,,eightbit_Tff,,,,,,,,
